@@ -1,0 +1,16 @@
+
+   • Packages in scope: @template/desktop, @template/mobile, @template/web
+   • Running typecheck in 3 packages
+   • Remote caching disabled
+
+@template/web:typecheck: cache miss, executing c9646359a286df7a
+@template/desktop:typecheck: cache hit, replaying logs ceef096724c03e8b
+@template/desktop:typecheck: $ tsc --noEmit
+@template/web:typecheck: $ tsc --noEmit
+@template/mobile:typecheck: cache miss, executing d4a0abf757ac9a2f
+@template/mobile:typecheck: $ tsc --noEmit
+
+ Tasks:    3 successful, 3 total
+Cached:    1 cached, 3 total
+  Time:    841ms 
+

@@ -1,0 +1,140 @@
+{
+  "360": {
+    "overflow": false,
+    "images": [
+      {
+        "src": "/images/hero.webp",
+        "ok": true
+      },
+      {
+        "src": "/images/court-white.webp",
+        "ok": true
+      },
+      {
+        "src": "/images/terrace-white.webp",
+        "ok": true
+      },
+      {
+        "src": "/images/silver-runner.webp",
+        "ok": true
+      },
+      {
+        "src": "/images/rope-pink.webp",
+        "ok": true
+      },
+      {
+        "src": "/images/forest-runner.webp",
+        "ok": true
+      },
+      {
+        "src": "/images/terrace-blue.webp",
+        "ok": true
+      }
+    ],
+    "cards": 6
+  },
+  "390": {
+    "overflow": false,
+    "images": [
+      {
+        "src": "/images/hero.webp",
+        "ok": true
+      },
+      {
+        "src": "/images/court-white.webp",
+        "ok": true
+      },
+      {
+        "src": "/images/terrace-white.webp",
+        "ok": true
+      },
+      {
+        "src": "/images/silver-runner.webp",
+        "ok": true
+      },
+      {
+        "src": "/images/rope-pink.webp",
+        "ok": true
+      },
+      {
+        "src": "/images/forest-runner.webp",
+        "ok": true
+      },
+      {
+        "src": "/images/terrace-blue.webp",
+        "ok": true
+      }
+    ],
+    "cards": 6
+  },
+  "430": {
+    "overflow": false,
+    "images": [
+      {
+        "src": "/images/hero.webp",
+        "ok": true
+      },
+      {
+        "src": "/images/court-white.webp",
+        "ok": true
+      },
+      {
+        "src": "/images/terrace-white.webp",
+        "ok": true
+      },
+      {
+        "src": "/images/silver-runner.webp",
+        "ok": true
+      },
+      {
+        "src": "/images/rope-pink.webp",
+        "ok": true
+      },
+      {
+        "src": "/images/forest-runner.webp",
+        "ok": true
+      },
+      {
+        "src": "/images/terrace-blue.webp",
+        "ok": true
+      }
+    ],
+    "cards": 6
+  },
+  "1366": {
+    "overflow": false,
+    "images": [
+      {
+        "src": "/images/hero.webp",
+        "ok": true
+      },
+      {
+        "src": "/images/court-white.webp",
+        "ok": true
+      },
+      {
+        "src": "/images/terrace-white.webp",
+        "ok": true
+      },
+      {
+        "src": "/images/silver-runner.webp",
+        "ok": true
+      },
+      {
+        "src": "/images/rope-pink.webp",
+        "ok": true
+      },
+      {
+        "src": "/images/forest-runner.webp",
+        "ok": true
+      },
+      {
+        "src": "/images/terrace-blue.webp",
+        "ok": true
+      }
+    ],
+    "cards": 6
+  },
+  "interaction_tests": "PASS: category/reset, search/empty, sort, selected size/SKU message, disabled live WhatsApp, Escape dialog, anchor targets, mobile menu navigation/Escape",
+  "page_errors": []
+}

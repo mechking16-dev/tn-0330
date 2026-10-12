@@ -1,0 +1,11 @@
+# TN Footwear task
+- Research: TikTok @tnfootwear0 bio and September/October product posts opened. Ilanga Mall Shop 55 and 263715088283 corroborated, not owner-confirmed. Older AutoQuip address superseded. No official logo available. Facebook/Instagram login blocked.
+- Approval: off-white/charcoal/forest green; user authorises public product photo reuse.
+- Audit: empty workspace; managed template initialized. React19, Vite7, Bun, Wouter, CSS/Tailwind, lucide already installed. No dependencies added. Preserve template core and analytics.
+- Assets: saved real product covers and extracted playable video frames; no videos shipped. Need crop into consistent cards and document sources.
+- Implement: responsive single page, catalogue filters/search/sort, accessible product preview and safe enquiry drafts.
+- Verify: build/typecheck/lint; browser 360/390/430/1366, overflow/assets/console, filter/search/reset/sort, keyboard menu/dialog, enquiry encoding and disabled-number protection.
+- Deliver: running website and handover with actual test results, config guidance, provenance, launch boundary.
+- Completed implementation and delivered local WebP catalogue imagery from authorised public posts/captured frames. Handover documents source links and provisional identity.
+- Verified final build, lint and typecheck; browser interactions PASS at all four widths; no overflow/missing catalogue assets/page errors. URL helper rejects invalid or unconfirmed destinations and round-trips encoded message.
+- Remaining: owner sign-off/stock/prices/sizes/brand/WhatsApp and measured Lighthouse. Build warning: 513KB JS minified, 158KB gzip. No score claimed.
